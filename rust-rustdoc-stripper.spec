@@ -4,8 +4,8 @@
 %global crate rustdoc-stripper
 
 Name:           rust-%{crate}
-Version:        0.1.9
-Release:        2%{?dist}
+Version:        0.1.19
+Release:        1%{?dist}
 Summary:        Tool to manipulate rustdoc comments
 
 # Upstream license specification: Apache-2.0
